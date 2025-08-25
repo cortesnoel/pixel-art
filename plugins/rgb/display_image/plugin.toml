@@ -1,0 +1,4 @@
+[plugin]
+
+save_gameplay = false
+image_display_time =  5 # seconds

@@ -1,0 +1,20 @@
+[Unit]
+Description=Pixel Art Service
+After=multi-user.target
+Requires=network.target
+
+[Service]
+Type=idle
+User=root
+WorkingDirectory=/opt/pixel-art
+# ExecStart=/bin/bash -c 'cd /opt/pixel-art && source .venv/bin/activate && python main.py'
+ExecStart=/opt/pixel-art/.venv/bin/python /opt/pixel-art/main.py
+# ExecStop=deactivate
+Environment="PICOVOICE_TOKEN="
+Environment="RETRO_DIFFUSION_TOKEN="
+Environment="OPENAI_API_KEY="
+Restart=always
+RestartSec=1
+
+[Install]
+WantedBy=multi-user.target

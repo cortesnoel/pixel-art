@@ -1,0 +1,4 @@
+[plugin]
+
+save_gif = false
+num_sprites = 3 # number of hearts, smileys, etc.

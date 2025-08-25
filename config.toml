@@ -1,0 +1,49 @@
+# Plugin name syntax: "module_name.ClassName.function_name"
+
+[plugins]
+
+ai = [
+        # pipeline test
+        # "retro_diffusion_plugins.RetroDiffusionPlugins.rd_test_simple_wait",
+        # "retro_diffusion_plugins.RetroDiffusionPlugins.rd_test_simple_wait",
+        # "retro_diffusion_plugins.RetroDiffusionPlugins.rd_test_simple_wait",
+        # "retro_diffusion_plugins.RetroDiffusionPlugins.rd_test_simple_wait",
+        # "retro_diffusion_plugins.RetroDiffusionPlugins.rd_test_simple_wait",
+        # "retro_diffusion_plugins.RetroDiffusionPlugins.rd_test_simple_wait",
+
+        # retro diffusion
+        "retro_diffusion_plugins.RetroDiffusionPlugins.rd_wake",
+        # "retro_diffusion_plugins.RetroDiffusionPlugins.rd_speech_to_text",
+        # "retro_diffusion_plugins.RetroDiffusionPlugins.rd_text_to_image",
+        
+        # openai assistant
+        # "openai_assistant.OpenAIAssistantPlugins.assistant_wake",
+        # "openai_assistant.OpenAIAssistantPlugins.assistant_run",
+
+        # games
+        # "basic.BasicGame.play",
+        # "pixel_zombie.PixelZombieGame.play",
+]
+
+rgb = [
+        # pipeline test
+        # "random_pixel_plugins.RandomPixelPlugins.display_pixel_rand",
+        # "random_pixel_plugins.RandomPixelPlugins.display_heart_rand",
+        # "random_pixel_plugins.RandomPixelPlugins.display_smiley_rand",
+        # "random_pixel_plugins.RandomPixelPlugins.display_snake_rand",
+        # "fill_screen_plugins.FillScreenPlugins.display_strobe_fill",
+        # "fill_screen_plugins.FillScreenPlugins.display_scatter_fill",
+
+        
+        # retro diffusion
+        "random_pixel_plugins.RandomPixelPlugins.display_heart_rand",
+        # "fill_screen_plugins.FillScreenPlugins.display_strobe_fill",
+        # "display_image_plugins.DisplayImagePlugins.display_image",
+
+        # openai assistant
+        # "random_pixel_plugins.RandomPixelPlugins.display_smiley_rand",
+        # "display_image_plugins.DisplayImagePlugins.display_emotion_avatar",
+
+        # games
+        # "display_image_plugins.DisplayImagePlugins.display_game",
+]

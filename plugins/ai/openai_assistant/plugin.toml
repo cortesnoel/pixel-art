@@ -1,0 +1,5 @@
+[plugin]
+
+voice = "sage"
+chat_model = "gpt-4o-realtime-preview-2025-06-03"
+emote_model = "gpt-4.1-nano-2025-04-14"

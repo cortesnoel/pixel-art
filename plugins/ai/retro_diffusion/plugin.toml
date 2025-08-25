@@ -1,0 +1,5 @@
+[plugin]
+
+model = "RD_FLUX"
+style = "detailed"
+record_time = 10

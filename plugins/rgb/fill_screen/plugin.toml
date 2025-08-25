@@ -1,0 +1,4 @@
+[plugin]
+
+save_gif = false
+strobe_color = [0, 0, 255] # RGB color code
