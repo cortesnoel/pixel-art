@@ -6,8 +6,8 @@
 <p align="center">
   <img src="assets/examples/tree.png" alt="tree.png" title="tree.png" width="128" height="128"/>
   <img src="assets/examples/eyes.gif" alt="eyes.gif" title="eyes.gif" width="128" height="128" hspace="20"/>
-  <img src="assets/examples/game.mp4" alt="game.mp4" title="game.mp4" width="128" height="128" hspace="40"/>
-  <img src="assets/avatar/joy.gif" alt="joy.gif" title="joy.gif" width="128" height="128"/>
+  <img src="https://github.com/user-attachments/assets/253deb56-ef8e-4581-84c0-5dc97827ae95" alt="gameplay" title="gameplay" width="128" height="128" hspace="40"/>
+  <img src="assets/avatar/joy.gif" alt="joy.gif" title="joy.gif" width="128" height="128" hspace="60"/>
 </p>
 
 ## Requirements
@@ -144,7 +144,7 @@ rgb = [
 
 **Examples**
 
-<img src="assets/examples/game.mp4" alt="game.mp4" title="game.mp4" width="128" height="128" hspace="40"/>
+<img src="https://github.com/user-attachments/assets/253deb56-ef8e-4581-84c0-5dc97827ae95" alt="gameplay" title="gameplay" width="128" height="128" hspace="40"/>
 
 ---
 
