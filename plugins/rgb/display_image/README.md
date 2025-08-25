@@ -144,7 +144,7 @@ rgb = [
 
 **Examples**
 
-<img src="https://github.com/user-attachments/assets/253deb56-ef8e-4581-84c0-5dc97827ae95" alt="gameplay" title="gameplay" width="128" height="128" hspace="40"/>
+<img src="https://github.com/user-attachments/assets/253deb56-ef8e-4581-84c0-5dc97827ae95" alt="gameplay" title="gameplay" width="128" height="128"/>
 
 ---
 
